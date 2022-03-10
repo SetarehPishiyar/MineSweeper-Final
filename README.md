@@ -9,9 +9,15 @@
 ** In this project I tried to simulate this game in c++ using << CLUI >> library.
 
 # How to play
+- Clone this project: https://github.com/SetarehPishiyar/Mine_Sweeper.git
 - Run code. (Do not forget to put clui.h in the same folder)
 - Choose your game.
-- Move with WASD keys.
-- If you click on Bombs, You lose.
-- You can put flags and save your game.
+- If you click on bombs, You lose.
 - Have fun ;)
+
+
+# Features 
+- Save & Load game.
+- LeaderBoard.
+- Manual adjustment for Board.
+- Up to 10 players.
